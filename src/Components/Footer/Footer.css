@@ -1,0 +1,21 @@
+.footer {
+    margin: 10px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+
+.footer-line {
+    width: 100%;
+    border: none;
+    border-top: 1px solid white; 
+    position: absolute;
+    top: 0; 
+}
+
+.footer p {
+    margin-top: 20px; 
+    margin-bottom: 10px;
+}
